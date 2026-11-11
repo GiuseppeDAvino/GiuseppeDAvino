@@ -1,5 +1,5 @@
 # Giuseppe D'Avino
-### Software Developer |
+### Software Developer
 
 Software Developer with experience in backend development, web applications and e-commerce platforms. Focused on Java, Spring Boot, REST APIs and relational databases. Currently completing a Bachelor's Degree in Computer Science at the University of Salerno.
 
@@ -39,7 +39,18 @@ Software Developer with experience in backend development, web applications and 
 
 ## Projects
 
-### [Activity / Productivity Tracker](https://github.com/GiuseppeDAvino)
+**[Quiete](https://github.com/GiuseppeDAvino/quiete)**
+
+Customizable soundscape web application.
+
+`HTML5` `CSS3` `JavaScript` `Web Audio API`
+
+- Real-time audio generation and sound customization.
+- 10-band equalizer and audio controls.
+- PWA and offline support.
+
+**Activity / Productivity Tracker**
+
 Full-stack application for activity management and productivity tracking.
 
 `React` `Tailwind CSS` `Supabase` `JavaScript`
@@ -48,16 +59,8 @@ Full-stack application for activity management and productivity tracking.
 - Analytics dashboard with productivity metrics and charts.
 - Responsive interface with dark and light themes.
 
-### [Quiete](https://github.com/GiuseppeDAvino/quiete)
-Web application for generating and customizing ambient soundscapes.
+**Funisa**
 
-`HTML5` `CSS3` `JavaScript` `Web Audio API`
-
-- Real-time audio generation and sound customization.
-- 10-band equalizer and audio controls.
-- PWA and offline support.
-
-### [Funisa](https://github.com/GiuseppeDAvino)
 University software engineering project for managing PC workstation reservations.
 
 `Java` `JavaScript` `MySQL` `Bootstrap`
@@ -66,20 +69,29 @@ University software engineering project for managing PC workstation reservations
 - Backend development and frontend integration.
 - Team collaboration and software engineering practices.
 
-### [Telegram → Discord Bot](https://github.com/GiuseppeDAvino)
+**Telegram → Discord Bot**
+
 Python application for forwarding messages between Telegram and Discord.
 
 `Python` `Telegram API` `Discord API`
 
-### [Beeautiful Nature](https://github.com/GiuseppeDAvino)
+**Beeautiful Nature**
+
 E-commerce prototype focused on organic products and user experience.
 
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `Adobe XD`
 
-### [Database Antivirus](https://github.com/GiuseppeDAvino)
+**Database Antivirus**
+
 Database design and SQL project.
 
 `MySQL` `ER Modeling` `SQL` `Database Normalization`
+
+**Ryanair Mobile Redesign**
+
+Mobile UX/UI redesign focused on usability and accessibility.
+
+`Figma` `Wireframing` `Prototyping` `UX/UI Design`
 
 ## Experience
 
